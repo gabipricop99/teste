@@ -71,7 +71,7 @@
     <div class="container">
         <h1>Notification</h1>
         <p>This demo has been deleted by GP because you do not have the right to resell these files.</p>
-        <p>For details, contact <a href="https://t.me/georgedev/" target="_blank">georgedev</a>.</p>
+        <p>For details, contact <a href="https://t.me/georgedev/" target="_blank">https://t.me/georgedev</a>.</p>
     </div>
 
     <!-- Afișăm textul în stil "Matrix" într-un div cu clasa "matrix-text matrix-text-alb" -->
