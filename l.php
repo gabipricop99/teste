@@ -18,6 +18,6 @@
     </style>
 </head>
 <body>
-    <img src="https://heimdalsecurity.com/blog/wp-content/uploads/Seizure-notice-FBI-reshipping-schemes.png" alt="Imagine pe Ecran">
+    <img src="https://techcrunch.com/wp-content/uploads/2021/04/manhunt-hero-image.jpg" alt="Imagine pe Ecran">
 </body>
 </html>
